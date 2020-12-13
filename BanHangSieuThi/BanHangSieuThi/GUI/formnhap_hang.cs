@@ -68,6 +68,7 @@ namespace BanHangSieuThi.GUI
             guTbLoiNhuanSP.Enabled = true;
             guTbMoTa.Enabled = true;
             guTbNXS.Enabled = true;
+            gunaButton2.BackColor=Color.Red;
             
         }
 
